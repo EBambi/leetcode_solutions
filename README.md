@@ -4,7 +4,7 @@
 
 Hey there!
 
-If you found this repo you were probably looking for a [Leetcode](https://leetcode.com/) solution or just found my profile and somehow ended up here, either way just to clarify I solve these problems for **fun** so don't expect my solutions to be the more eficient, I'm trying to get to that level of not needing to google the solution because once I sumbitted my code the runtime graph shows my solution in the middle or at the end of the graph 😅, but anyways still in process of achive that.
+If you found this repo you were probably looking for a [Leetcode](https://leetcode.com/) solution or just found my profile and somehow ended up here, either way just to clarify I solve these problems for **fun** so don't expect my solutions to be the more efficient, I'm trying to get to that level of not needing to google the solution because once I submitted my code the runtime graph shows my solution in the middle or at the end of the graph 😅, but anyways still in process of achiving that.
 
 ## Repo Structure
 
